@@ -61,7 +61,7 @@ section {
 
 .layers::before,
 .layers::after {
-  content: url(https://svgshare.com/i/i0k.svg);
+  content: url(/images/blkswn-logo.svg);
   position: absolute;
   width: 110%;
   z-index: -1;
